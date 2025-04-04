@@ -1,4 +1,4 @@
-# 7 to XP Pack by DyNiForm (found on April 4th, 2025)
+# 7 to XP Pack by DyNiForm (August 2012 version, found on April 4th, 2025)
 **All files have been checked and they're all virus-free! Nothing has been tampered with, and the file is downloaded from an original source (7toxp.weebly.com; download mirrors on the *same* original source, not the website itself) before the download mirrors are dead.**
 
 However, before downloading always make sure to check the *.exe & *.scr files to make sure they're safe. If, however you don't trust them, get the softwares from official sources and as for the screensavers you must rip them from your XP installation yourselves.
@@ -17,14 +17,14 @@ How to use video also included.
 
 Only for Windows 7! (or 2008 R2)
 # File checksums
-## File: 7 to XP Pack.zip
-CRC-32: 4ee110ca
+## File: 7 to XP Pack.7z
+CRC-32: 9f328310
 
-MD5: b641db03b6cb60b2e3d96906aa2727b8
+MD5: f6ddaecc61bd47b20dfb631316fdea3e
 
-SHA-1: 1bb50e4a440184617aa66b51d2c2735e7321592a
+SHA-1: 083d699f5f4726e25597d612aac1f4393993f4e7
 
-SHA-256: 19266a6e44a7fb84d0fb039b18ecbaecd9dc062c8bd792866b44a306425f5426
+SHA-256: 035fd92ca81a8a7e23bd8fa495d4bf42b25b25f936960e21babcdd4ad896c843
 ## File: Windows 7 Start Orb Changer v4.exe
 CRC-32: 27727f97
 
