@@ -36,8 +36,9 @@ SHA-256: 08d6d8686da7fe44274f992655457583ace04adff5dc7cae888b0050f9fa400a
 # Credits
 - DyNiForm (Gavin & ThePowermacGalaxy) - The pack itself
 - Kishan Bagaria of door2windows - Creator of Windows 7 Start Button Changer
+- Manuel Hoefs - UltraUXThemePatcher
 - The rest of the credits are in the readme.txt file of the archive.
 
 All credit goes to its respective owners. This mod and team is not affiliated with Microsoft and therefore is unofficial.
 
-Archived for preservation and educational purposes only. Password for the archive is ``lostmedia``, do not ask about it. Provide a link to this archive repo and credit amTwinLamps before reposting it somewhere else as they're the one who found it.
+Archived for preservation and educational purposes only. Password for the archive is ``lostmedia``, do not ask about it. Provide a link to this archive repo and credit amTwinLamps aswell as the original authors of the pack itself before reposting it somewhere else as they're the one who found it.
