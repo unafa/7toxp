@@ -1,7 +1,7 @@
 # 7 to XP Pack by DyNiForm (August 2012 version, found on April 4th, 2025)
 **All files have been checked and they're all virus-free! Nothing has been tampered with, and the file is downloaded from an original source (7toxp.weebly.com; download mirrors on the *same* original source, not the website itself) before the download mirrors are dead.**
 
-However, before downloading always make sure to check the *.exe & *.scr files to make sure they're safe. If, however you don't trust them, get the softwares from official sources and as for the screensavers you must rip them from your XP installation yourselves.
+However, before downloading always make sure to check the *.exe & *.scr files to make sure they're safe. *.exes included came from original sources, while *.scrs came from an installation of Windows XP. If, however you don't trust them, get the softwares from official sources and as for the screensavers you must rip them from your XP installation yourselves.
 
 Make backups and system restore and see readme first before installing. I (amTwinLamps of UNAFA) & the original authors of 7 to XP Pack will **not** be responsible for any damage did to your computer if did wrongly!
 ![Windows 7 Ultimate desktop skinned to look like Windows XP's.](https://github.com/unafa/7toxp/blob/6d05736c5c18b44e4ab15c28cc4f91d41addb42b/7toxp_preview1.png)
