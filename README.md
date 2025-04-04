@@ -13,7 +13,7 @@ Start orb changer (Windows 7 Start Orb Changer/W7SOC): https://www.softpedia.com
 
 Theme patcher (UltraUXThemePatcher): https://mhoefs.eu/software_uxtheme.php?lang=en
 
-How to use video also included.
+How to use video also included. Grabbed from YouTube using yt-dlp: https://youtu.be/un5T-MyUHeQ
 
 Only for Windows 7! (or 2008 R2)
 # File checksums
