@@ -1,4 +1,6 @@
 # 7 to XP Pack by DyNiForm (August 2012 version, found on April 4th, 2025)
+Internet Archive identifier: 7toxp
+
 **All files have been checked and they're all virus-free! Nothing has been tampered with, and the file is downloaded from an original source (7toxp.weebly.com; download mirrors on the *same* original source, not the website itself) before the download mirrors are dead.**
 
 However, before downloading always make sure to check the *.exe & *.scr files to make sure they're safe. *.exes included came from original sources, while *.scrs came from an installation of Windows XP. If, however you don't trust them, get the softwares from official sources and as for the screensavers you must rip them from your XP installation yourselves.
@@ -41,4 +43,4 @@ SHA-256: 08d6d8686da7fe44274f992655457583ace04adff5dc7cae888b0050f9fa400a
 
 All credit goes to its respective owners. This mod and team is not affiliated with Microsoft and therefore is unofficial.
 
-Archived for preservation and educational purposes only. Password for the archive is ``lostmedia``, do not ask about it. Provide a link to this archive repo and credit amTwinLamps & the original authors of the pack itself before reposting it somewhere else as they're (amTwinLamps) the one who found it.
+Archived for preservation and educational purposes only. Password for the archive is ``lostmedia``, do not ask about it. Credit the original authors of the pack itself before reposting it somewhere else.
